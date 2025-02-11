@@ -1,0 +1,259 @@
+Chunking Strategy,Embedding Model,Query,Retrieval Time (s),Response Time (s),Semantic Similarity Score,Response
+RecursiveTextSplitter,all-MiniLM-L6-v2,What security features does Xfinity offer?,0.032,2.754,0.794,"Xfinity offers several security features, including:
+
+1. **Advanced Security**: Protects your home network from online threats and vulnerabilities.
+2. **Xfinity Mobile Security**: Provides protection for mobile devices against malware and other security risks.
+3. **Xfinity Home Security**: Includes features such as cameras, sensors, and smart home integration to enhance home safety.
+4. **Network Security Alerts**: Notifies users of potentially suspicious activities on their network.
+5. **Parental Controls**: Helps manage and restrict access to content and screen time for children.
+
+These features aim to provide comprehensive protection for both home networks and connected devices."
+RecursiveTextSplitter,all-MiniLM-L6-v2,What is Xfinity NOW Internet?,0.016,2.037,0.718,"The context provided does not contain any information about Xfinity NOW Internet. Based on what I know, Xfinity NOW Internet likely refers to a service offered by Xfinity, which is a brand of Comcast, providing high-speed internet access to residential customers. For specific details about plans, speeds, pricing, or features of Xfinity NOW Internet, it would be best to check Xfinity's official website or contact their customer service for the most accurate and up-to-date information."
+RecursiveTextSplitter,all-MiniLM-L6-v2,What is the Xfinity NOW WiFi Pass?,0.031,1.26,0.779,"The Xfinity NOW WiFi Pass is a service offered by Comcast that allows users to access Xfinity WiFi hotspots without needing a subscription to Xfinity Internet. It provides a way for anyone to connect to the internet through these public hotspots, which are located in various places such as cafes, restaurants, and other public areas. The pass is typically a pay-as-you-go option, enabling users to enjoy WiFi service even if they are not Xfinity customers."
+RecursiveTextSplitter,all-MiniLM-L6-v2,What are the additional terms for Xfinity Internet and Voice services?,0.031,1.025,0.891,"I'm sorry, but I don't have the specific details regarding the additional terms for Xfinity Internet and Voice services from the provided context. You may want to check the official Xfinity website or contact their customer service for the most accurate and current information on their terms and conditions."
+RecursiveTextSplitter,all-MiniLM-L6-v2,How can I check my data usage for finity Internet?,0.015,2.378,0.742,"To check your data usage for Finity Internet, you can typically follow these steps:
+
+1. **Log in to Your Account**: Visit the Finity Internet website and log in to your account using your credentials.
+
+2. **Data Usage Section**: Once logged in, look for a section titled ""Data Usage,"" ""Usage Stats,"" or something similar in your account dashboard.
+
+3. **Review Your Data Usage**: This section should provide detailed information about your current data usage, including how much data you have used in the current billing cycle and how much is remaining.
+
+4. **Mobile App**: If Finity has a mobile app, you may also check your data usage there under your account settings.
+
+5. **Contact Customer Support**: If you're unable to find the information online, you can always contact Finity Internet’s customer support for assistance.
+
+Make sure to check regularly to manage your data effectively and avoid overages."
+RecursiveTextSplitter,all-MiniLM-L6-v2,What happens if I exceed the data consumption threshold?,0.016,2.043,0.646,"If you exceed the data consumption threshold, you may face additional charges, reduced speeds, or a temporary suspension of your data services, depending on the policy of your service provider. It is advisable to check your provider's terms and conditions for specific consequences related to exceeding the threshold."
+RecursiveTextSplitter,paraphrase-multilingual-MiniLM-L12-v2,What security features does Xfinity offer?,0.484,1.031,0.708,"Based on the retrieved context, there is no specific information regarding the security features that Xfinity offers. I recommend checking the official Xfinity website or contacting their customer service for detailed information about their security features."
+RecursiveTextSplitter,paraphrase-multilingual-MiniLM-L12-v2,What is Xfinity NOW Internet?,0.116,4.725,0.775,"Xfinity NOW Internet is a service offered by Xfinity that provides high-speed internet access to its users. It is designed to give customers a reliable and fast internet connection, allowing them to browse the web, stream videos, play online games, and connect multiple devices simultaneously. Xfinity typically offers various plans and speeds under the NOW Internet service, catering to different needs and usage patterns. For specific details like pricing, speed options, and availability, it's best to visit the official Xfinity website or contact their customer service."
+RecursiveTextSplitter,paraphrase-multilingual-MiniLM-L12-v2,What is the Xfinity NOW WiFi Pass?,0.124,1.075,0.792,The Xfinity NOW WiFi Pass is a service offered by Xfinity that provides access to their extensive network of WiFi hotspots. This pass allows users to connect to the internet without needing a cable subscription. It is designed for people who may not be Xfinity internet customers but still want to use the WiFi network when they are in areas where Xfinity hotspots are available.
+RecursiveTextSplitter,paraphrase-multilingual-MiniLM-L12-v2,What are the additional terms for Xfinity Internet and Voice services?,0.128,1.072,0.884,"I'm sorry, but the provided context does not contain any information regarding the additional terms for Xfinity Internet and Voice services. If you need specific details about these services, I recommend checking the official Xfinity website or contacting customer support for accurate and up-to-date information."
+RecursiveTextSplitter,paraphrase-multilingual-MiniLM-L12-v2,How can I check my data usage for finity Internet?,0.121,2.387,0.744,"To check your data usage for Finity Internet, you can typically follow these steps:
+
+1. **Log into your account**: Visit the Finity Internet website and log into your customer account using your credentials.
+
+2. **Navigate to the usage section**: Look for a section that is dedicated to account management or data usage. This could be labeled as ""Data Usage,"" ""My Account,"" or something similar.
+
+3. **View your data statistics**: Within this section, you should be able to see your current data usage, usage history, and any relevant details about your internet plan limits.
+
+4. **Mobile app**: If Finity Internet has a mobile app, you can download it and log in to check your data usage directly from your smartphone.
+
+5. **Contact customer support**: If you're unable to find your data usage through the website or app, you can contact Finity Internet's customer service for assistance in checking your usage.
+
+Make sure to review these resources periodically, especially if you're on a limited data plan."
+RecursiveTextSplitter,paraphrase-multilingual-MiniLM-L12-v2,What happens if I exceed the data consumption threshold?,0.157,1.206,0.656,"The context provided does not contain specific information about exceeding a data consumption threshold. Therefore, I cannot provide a direct answer based on the retrieved context. However, typically, if you exceed a data consumption threshold, you may experience reduced internet speeds, additional charges, or service restrictions, depending on your service provider's policies. It is best to check with your specific provider for their rules and consequences related to data overages."
+RecursiveTextSplitter,bge-base-en,What security features does Xfinity offer?,0.901,2.542,0.739,"Xfinity offers several security features for its customers, which typically include:
+
+1. **Xfinity xFi** - This includes advanced security settings for your home network, allowing you to monitor and control connected devices.
+
+2. **Xfinity Internet Security** - Xfinity provides options for antivirus and anti-malware protection to help keep devices secure.
+
+3. **Home Security Systems** - Xfinity offers smart home security systems that include features such as cameras, motion detectors, and 24/7 monitoring.
+
+4. **Network Security** - They implement encryption and firewalls to protect customer data and prevent unauthorized access to networks.
+
+5. **Real-time Threat Detection** - Some Xfinity security services involve monitoring for potential threats and providing alerts to users.
+
+For the most current and specific details, it’s recommended to check Xfinity's official website or contact their customer support directly."
+RecursiveTextSplitter,bge-base-en,What is Xfinity NOW Internet?,0.22,1.268,0.698,"Xfinity NOW Internet is not explicitly defined in the provided context. However, based on general knowledge, Xfinity is a brand of Comcast that provides internet, cable television, and phone services. The ""NOW"" aspect could suggest a feature or service that emphasizes immediate access or connectivity, but further specific details or definitions would be necessary to provide an accurate answer. For precise information, checking the official Xfinity website or related customer service would be advisable."
+RecursiveTextSplitter,bge-base-en,What is the Xfinity NOW WiFi Pass?,0.219,1.116,0.812,"The Xfinity NOW WiFi Pass is a service that provides access to Xfinity's WiFi hotspots. It is designed for individuals who need internet connectivity but do not have an Xfinity internet subscription. With the WiFi Pass, users can connect to thousands of Xfinity WiFi hotspots nationwide for a limited period of time, allowing them to use the internet on the go."
+RecursiveTextSplitter,bge-base-en,What are the additional terms for Xfinity Internet and Voice services?,0.276,0.981,0.845,"I'm sorry, but I can't provide information about the additional terms for Xfinity Internet and Voice services based on the retrieved context, as it does not contain any relevant details. I recommend checking Xfinity's official website or their customer service for the most accurate and up-to-date information regarding their services."
+RecursiveTextSplitter,bge-base-en,How can I check my data usage for finity Internet?,0.22,2.333,0.749,"To check your data usage for Finity Internet, you can usually follow these steps:
+
+1. **Log into Your Account**: Visit the Finity Internet website and log into your customer account using your credentials.
+
+2. **Go to Data Usage Section**: Look for a section that specifically mentions ""Data Usage,"" ""Usage Statistics,"" or ""Internet Usage."" This is typically found in your account dashboard.
+
+3. **Review Your Usage**: Once in the data usage section, you should be able to see your current data usage statistics, including how much data you have used in the billing cycle.
+
+4. **Use the Mobile App**: If Finity has a mobile app, you can download it and log in to check your data usage on the go.
+
+5. **Contact Customer Support**: If you're unable to find your usage information online, consider reaching out to Finity's customer support for assistance.
+
+Make sure to regularly check your usage to avoid exceeding any data caps that may apply to your plan."
+RecursiveTextSplitter,bge-base-en,What happens if I exceed the data consumption threshold?,0.236,1.84,0.639,"If you exceed the data consumption threshold, it typically results in additional charges, throttling of your internet speed, or a temporary suspension of your service, depending on the policy of your service provider. It’s best to consult your specific provider’s terms of service for detailed information about the consequences of exceeding data limits."
+SentenceSplitter,all-MiniLM-L6-v2,What security features does Xfinity offer?,0.094,1.534,0.73,"Xfinity offers a range of security features, including:
+
+1. **Xfinity Security**: A comprehensive home security system that includes equipment like cameras, sensors, and alarms to protect your home.
+2. **Xfinity Advanced Security**: This service monitors all devices connected to your home network, providing alerts and the ability to block potentially harmful devices.
+3. **Constant Guard**: A suite of identity theft protection services, including antivirus software and secure browsing tools.
+4. **Network Security**: Tools to secure your home Wi-Fi network, ensuring that users can manage who has access to their network.
+5. **24/7 Monitoring**: Professional monitoring services that can alert authorities in case of a security breach.
+
+For specific details and the latest offerings, it’s recommended to check directly with Xfinity."
+SentenceSplitter,all-MiniLM-L6-v2,What is Xfinity NOW Internet?,0.063,1.362,0.799,"Xfinity NOW Internet is a service offered by Comcast Xfinity that provides high-speed internet access. It is designed to cater to residential customers, delivering reliable broadband connectivity for various online activities such as streaming, gaming, and remote work. The service includes various pricing plans and speed options to accommodate different user needs. Please check the official Xfinity website or contact their customer service for the most accurate and detailed information regarding the service, including availability in your area."
+SentenceSplitter,all-MiniLM-L6-v2,What is the Xfinity NOW WiFi Pass?,0.063,1.34,0.787,"The Xfinity NOW WiFi Pass is a service that allows users to access Xfinity WiFi hotspots without needing to be an Xfinity Internet customer. This pass is ideal for individuals who need temporary internet access on the go, such as travelers or those who do not subscribe to Xfinity's internet services at home. The pass can be purchased for a specific duration, enabling users to connect to the extensive network of Xfinity WiFi hotspots available in various locations."
+SentenceSplitter,all-MiniLM-L6-v2,What are the additional terms for Xfinity Internet and Voice services?,0.079,1.544,0.786,"I'm sorry, but I cannot provide specific additional terms for Xfinity Internet and Voice services based on the retrieved context, as it appears to contain only unspecified or generic documents. To find detailed information about the additional terms for Xfinity services, please visit the official Xfinity website or contact their customer service directly."
+SentenceSplitter,all-MiniLM-L6-v2,How can I check my data usage for finity Internet?,0.063,2.487,0.724,"To check your data usage for Finity Internet, you can follow these steps:
+
+1. **Log into Your Account**: Visit the Finity Internet website and log into your customer account using your credentials.
+
+2. **Data Usage Section**: Navigate to the section of the website that provides account details or data usage statistics. This may be labeled as ""Data Usage,"" ""My Usage,"" or something similar.
+
+3. **Mobile App**: If Finity has a mobile app, you can download it and log into your account to check your data usage directly from your mobile device.
+
+4. **Contact Customer Support**: If you're unable to find the information online, consider contacting Finity’s customer support for assistance. They can provide you with your data usage information.
+
+5. **Check Your Router**: Some routers provide usage statistics that can be accessed via the router's settings page.
+
+Make sure to regularly monitor your usage to avoid exceeding any data limits if applicable."
+SentenceSplitter,all-MiniLM-L6-v2,What happens if I exceed the data consumption threshold?,0.063,1.019,0.613,"If you exceed the data consumption threshold, typically, you may experience reduced internet speeds, additional charges may apply, or your service could be suspended until the next billing cycle. The specific consequences depend on your service provider's policies. It's best to check with them for detailed information regarding their data consumption rules."
+SentenceSplitter,paraphrase-multilingual-MiniLM-L12-v2,What security features does Xfinity offer?,0.235,2.716,0.766,"Xfinity offers a variety of security features, including:
+
+1. **Xfinity Internet Security**: This service includes advanced security measures to protect your network from online threats and keep your personal information safe.
+
+2. **Xfinity Advanced Security**: An add-on feature that provides real-time threat monitoring, detection, and notifications for suspicious activity on your home network.
+
+3. **Parental Controls**: Tools that allow you to manage and restrict children’s access to certain content and online activities.
+
+4. **Xfinity Home Security**: A comprehensive security system that may include features like 24/7 monitoring, smart cameras, motion detectors, and smart locks.
+
+5. **Secure Wi-Fi**: Encryption and protection features to ensure your home Wi-Fi network is secure from unauthorized access.
+
+6. **Device Protection**: Options to protect devices connected to your network from viruses and malware.
+
+For the most accurate and detailed information about the specific features and offerings, it's best to consult Xfinity's official website or customer service."
+SentenceSplitter,paraphrase-multilingual-MiniLM-L12-v2,What is Xfinity NOW Internet?,0.11,1.33,0.819,"Xfinity NOW Internet is a broadband internet service offered by Xfinity, which is a brand of Comcast. It provides high-speed internet access to residential customers and may feature a variety of plans with different speed options to meet diverse online needs. Typically, it includes services such as Wi-Fi connectivity, access to streaming services, and possibly bundled services with television and phone offerings. For specific details, such as availability, pricing, and exact features, it would be best to check Xfinity's official website or contact their customer service."
+SentenceSplitter,paraphrase-multilingual-MiniLM-L12-v2,What is the Xfinity NOW WiFi Pass?,0.113,2.362,0.782,"The Xfinity NOW WiFi Pass is a service that allows non-Xfinity internet customers to access Xfinity's extensive network of WiFi hotspots. This pass provides individuals with temporary internet access without needing to be an Xfinity subscriber. Users can purchase the pass for a specific duration, enabling them to connect to high-speed internet while on the go at various locations that offer Xfinity WiFi."
+SentenceSplitter,paraphrase-multilingual-MiniLM-L12-v2,What are the additional terms for Xfinity Internet and Voice services?,0.128,3.226,0.888,"I'm sorry, but the context provided does not contain any information about the additional terms for Xfinity Internet and Voice services. You may want to check Xfinity's official website or contact their customer service for specific details regarding the terms and conditions."
+SentenceSplitter,paraphrase-multilingual-MiniLM-L12-v2,How can I check my data usage for finity Internet?,0.109,3.071,0.744,"To check your data usage for Finity Internet, you can follow these steps:
+
+1. **Log in to your account**: Go to the Finity Internet website and log in to your customer account using your credentials.
+
+2. **Navigate to the usage section**: Once logged in, look for a section labeled ""Data Usage,"" ""Internet Usage,"" or similar. This is typically found in account settings or billing.
+
+3. **Review usage details**: In the data usage section, you should be able to see your current data usage, historical data usage, and any applicable data caps.
+
+4. **Mobile App**: If Finity has a mobile app, you can also check your data usage through the app by logging in with your account credentials.
+
+5. **Customer Support**: If you are having trouble accessing your data usage information online, consider contacting Finity customer support for assistance.
+
+Make sure to regularly check your data usage to avoid any overage charges or throttling."
+SentenceSplitter,paraphrase-multilingual-MiniLM-L12-v2,What happens if I exceed the data consumption threshold?,0.127,2.474,0.613,"The provided context does not contain any information regarding the consequences of exceeding a data consumption threshold. Therefore, I am unable to answer your query based on the available information. If you have access to specific service terms or guidelines related to data consumption, I recommend reviewing those for detailed explanations."
+SentenceSplitter,bge-base-en,What security features does Xfinity offer?,0.337,1.989,0.699,"The retrieved context does not contain any information regarding the security features offered by Xfinity. However, Xfinity typically provides a range of security features including:
+
+1. **Xfinity Internet Security**: This includes advanced security protection, offering tools to help protect users against malware and other online threats.
+
+2. **Firewall Protection**: Xfinity provides firewall protection to help secure your network from unauthorized access.
+
+3. **Network Security**: The Xfinity app allows users to manage their home network security settings, including the ability to see devices connected to the network.
+
+4. **Parental Controls**: Xfinity offers parental control features that enable parents to manage their children's internet usage and restrict access to certain content.
+
+5. **Xfinity Home Security**: This includes home monitoring and alarm systems for added physical security.
+
+For specific features and the latest offerings, it's best to consult Xfinity's official website or customer support."
+SentenceSplitter,bge-base-en,What is Xfinity NOW Internet?,0.203,1.506,0.781,"Xfinity NOW Internet is a service provided by Xfinity, which is associated with Comcast. It typically refers to a high-speed internet offering that allows users to access the internet with fast download and upload speeds, often catering to the needs of households that require reliable connectivity for activities such as streaming, gaming, and remote work. Xfinity may offer various plans under the NOW Internet branding, potentially including features like no data cap, installation options, and bundled services with other Xfinity products. For specific details about pricing, speeds, and availability, it’s best to check Xfinity’s official website or contact their customer service."
+SentenceSplitter,bge-base-en,What is the Xfinity NOW WiFi Pass?,0.25,1.143,0.826,"The Xfinity NOW WiFi Pass is a service that allows customers to access Xfinity's extensive WiFi network without needing to be an Xfinity internet subscriber. This pass provides users with the ability to connect to over 20 million Xfinity WiFi hotspots across the country for a certain period of time, offering a convenient way to get online while on the go."
+SentenceSplitter,bge-base-en,What are the additional terms for Xfinity Internet and Voice services?,0.285,1.135,0.871,"I'm sorry, but I cannot provide specific details regarding the additional terms for Xfinity Internet and Voice services as the context does not contain that information. For the most accurate and up-to-date details, I recommend checking Xfinity's official website or contacting their customer service directly."
+SentenceSplitter,bge-base-en,How can I check my data usage for finity Internet?,0.226,1.769,0.763,"To check your data usage for Finity Internet, you can typically follow these steps:
+
+1. **Log into Your Account**: Visit the Finity Internet website and log into your customer account using your credentials.
+
+2. **Check the Dashboard**: Once logged in, navigate to the account dashboard where you may find information related to your internet usage, including data usage statistics.
+
+3. **Data Usage Section**: Look for a specific section titled ""Data Usage,"" ""Usage History,"" or similar to view details about your current and past data consumption.
+
+4. **Mobile App**: If Finity provides a mobile app, you can also check your data usage there by logging into your account through the app.
+
+5. **Customer Support**: If you cannot find your data usage information online, consider contacting Finity Internet customer support for assistance.
+
+Please refer to the official Finity Internet resources for detailed instructions tailored to your specific account setup."
+SentenceSplitter,bge-base-en,What happens if I exceed the data consumption threshold?,0.204,2.082,0.632,"The retrieved context does not provide any information regarding the consequences of exceeding the data consumption threshold. To accurately answer your query, you may need to refer to specific policies or guidelines from your service provider regarding data usage limits. Generally, exceeding a data consumption threshold may result in throttling of your internet speed, additional charges, or suspension of service, depending on the provider's regulations."
+ParagraphSplitter,all-MiniLM-L6-v2,What security features does Xfinity offer?,0.028,2.006,0.727,"Xfinity offers several security features for its services, including:
+
+1. **Advanced Security Protection**: Xfinity’s Internet security includes features such as threat detection, which helps protect against malware and phishing attempts.
+
+2. **Xfinity Secure**: This app provides tools for monitoring and managing your home network’s security, allowing users to see connected devices and get security alerts.
+
+3. **Parental Controls**: Xfinity allows users to set up parental controls to manage internet usage and block inappropriate content.
+
+4. **Xfinity Home Security**: For those with Xfinity Home, there are options for security cameras, motion detectors, and 24/7 monitoring services.
+
+5. **Encryption**: Xfinity ensures that data transmitted over its network is encrypted to protect users' privacy.
+
+6. **Multi-factor Authentication**: Users can enable multi-factor authentication to add an extra layer of security to their accounts.
+
+For the most current features and details, it's best to refer to Xfinity's official website or customer support."
+ParagraphSplitter,all-MiniLM-L6-v2,What is Xfinity NOW Internet?,0.03,1.303,0.799,"Xfinity NOW Internet is a high-speed internet service offered by Xfinity, a brand of Comcast. It typically provides users with various internet speed options, allowing them to choose a plan that suits their needs. The service often includes features such as no data caps, a reliable connection, and options for bundling with other Xfinity services like television and phone. As with other Xfinity internet offerings, customers can expect benefits such as access to Wi-Fi hotspots, advanced security features, and sometimes a promotional period with discounted rates."
+ParagraphSplitter,all-MiniLM-L6-v2,What is the Xfinity NOW WiFi Pass?,0.032,2.174,0.816,"The Xfinity NOW WiFi Pass is a service that allows non-Xfinity customers to access Xfinity's extensive Wi-Fi network. By purchasing the NOW WiFi Pass, individuals can connect to millions of Xfinity Wi-Fi hotspots across the country for a set period, typically 24 hours. This pass gives temporary internet access without the need for a long-term subscription to Xfinity services."
+ParagraphSplitter,all-MiniLM-L6-v2,What are the additional terms for Xfinity Internet and Voice services?,0.062,1.068,0.87,"I'm sorry, but I cannot find the specific additional terms for Xfinity Internet and Voice services based on the context provided. You may want to check the official Xfinity website or their customer service for the most accurate and up-to-date information regarding their terms and conditions."
+ParagraphSplitter,all-MiniLM-L6-v2,How can I check my data usage for finity Internet?,0.063,2.089,0.758,"To check your data usage for Finity Internet, you can typically follow these steps:
+
+1. **Log into Your Account**: Visit the Finity Internet website and log into your customer account. You may need your account credentials.
+   
+2. **Access Data Usage Section**: Look for a section labeled “Data Usage” or “Internet Usage” in your account dashboard. This is where you can typically find details about your data consumption.
+
+3. **Check Usage Reports**: Review the reports or graphs provided, which should show your current data usage, any limits set, and historical usage data.
+
+4. **Mobile App**: If Finity offers a mobile app, you can also check your data usage there by logging into your account.
+
+5. **Contact Customer Support**: If you are unable to find the information online, consider contacting Finity customer support for assistance.
+
+Make sure to check if there are specific instructions or tools provided by Finity for monitoring your data usage, as these can vary by provider."
+ParagraphSplitter,all-MiniLM-L6-v2,What happens if I exceed the data consumption threshold?,0.049,1.243,0.645,"If you exceed the data consumption threshold, you may experience limited or reduced service, additional charges, or temporary suspension of your data service, depending on the policies of your service provider. It is best to check with your specific provider for their guidelines and potential penalties for exceeding data limits."
+ParagraphSplitter,paraphrase-multilingual-MiniLM-L12-v2,What security features does Xfinity offer?,0.281,3.192,0.704,"Xfinity offers several security features, including:
+
+1. **Xfinity Security Monitoring**: This includes 24/7 monitoring of your home or business with the option for professional monitoring services.
+
+2. **Xfinity Home Security**: A comprehensive system that includes motion detectors, door/window sensors, and cameras.
+
+3. **Smart Home Integration**: Options to integrate various smart devices for enhanced security, allowing control via the Xfinity app.
+
+4. **Home Automation**: Features that allow users to automate locking doors or turning on lights remotely to enhance security.
+
+5. **Network Security**: Xfinity provides security features for protecting your Wi-Fi network, which includes encryption and network monitoring to detect unauthorized access.
+
+6. **Parental Controls**: Tools that allow parents to manage their children's online activity.
+
+For detailed features and updates, it is recommended to visit the official Xfinity website or contact their customer service for the latest offerings."
+ParagraphSplitter,paraphrase-multilingual-MiniLM-L12-v2,What is Xfinity NOW Internet?,0.094,1.256,0.783,"Xfinity NOW Internet is a high-speed internet service offered by Xfinity, which is a brand under Comcast. It provides customers with reliable internet access, allowing them to connect multiple devices and engage in activities such as streaming, gaming, and browsing. Typically, it includes features like various speed tiers, Wi-Fi capabilities, and access to Xfinity's extensive network. For specific details, features, and availability, it's recommended to check Xfinity's official website or contact their customer service."
+ParagraphSplitter,paraphrase-multilingual-MiniLM-L12-v2,What is the Xfinity NOW WiFi Pass?,0.094,1.055,0.772,"The Xfinity NOW WiFi Pass is a service that allows users to access Xfinity's extensive network of WiFi hotspots. It is designed for those who may not be Xfinity internet subscribers but still want to connect to the internet on the go. The pass provides a set amount of time or data to use Xfinity's WiFi services, making it convenient for people who need temporary internet access."
+ParagraphSplitter,paraphrase-multilingual-MiniLM-L12-v2,What are the additional terms for Xfinity Internet and Voice services?,0.095,0.912,0.75,"I'm sorry, but I cannot provide specific additional terms for Xfinity Internet and Voice services as the retrieved context does not contain that information. To get the most accurate and up-to-date details, I recommend checking the official Xfinity website or contacting their customer service directly."
+ParagraphSplitter,paraphrase-multilingual-MiniLM-L12-v2,How can I check my data usage for finity Internet?,0.094,1.961,0.758,"To check your data usage for finity Internet, you can follow these general steps:
+
+1. **Log into Your Account**: Visit the finity Internet website and log into your account using your credentials.
+
+2. **Access Data Usage Section**: Once logged in, navigate to the section that displays your account details or services. Look for a specific section labeled ""Data Usage,"" ""Internet Usage,"" or similar.
+
+3. **View Usage Details**: In the data usage section, you should be able to view your current data usage, including the amount used and the limit, if applicable.
+
+4. **Contact Customer Support**: If you cannot find your data usage information online, consider contacting finity Internet's customer support for assistance. They can provide specific details about your account.
+
+5. **Mobile Apps**: If finity Internet offers a mobile app, you may also be able to check your data usage through the app.
+
+If you have any more specific questions or need further assistance, feel free to ask!"
+ParagraphSplitter,paraphrase-multilingual-MiniLM-L12-v2,What happens if I exceed the data consumption threshold?,0.094,1.354,0.611,"The retrieved context does not provide any information regarding what happens if you exceed the data consumption threshold. To get a specific answer, you may need to consult the relevant service provider's policy or guidelines regarding data usage. Typically, exceeding a data consumption threshold may result in additional charges, throttled speeds, or temporary suspension of services, but this can vary by provider. Please check your provider's terms for precise details."
+ParagraphSplitter,bge-base-en,What security features does Xfinity offer?,0.281,2.389,0.73,"Xfinity offers several security features, which typically include:
+
+1. **Xfinity xFi Advanced Security**: This feature helps protect your home network from hackers and malware. It includes network scanning to detect vulnerabilities and alert you to potential threats.
+
+2. **Parental Controls**: Xfinity provides tools that allow parents to manage and monitor their children's online activities. This includes setting time limits on device usage and filtering inappropriate content.
+
+3. **Device Protection**: Xfinity offers protection for devices connected to your network, which can include antivirus and anti-malware features.
+
+4. **Secure Wi-Fi**: Xfinity ensures that your Wi-Fi network is secured with WPA2 encryption and provides options for managing your Wi-Fi settings easily.
+
+5. **Security Alerts**: The service sends notifications for suspicious activity or potential threats detected on your network.
+
+6. **Xfinity Home Security**: In addition to internet security, Xfinity may offer home security services that include professional monitoring, video surveillance, and smart home integrations.
+
+For the most current and specific information about Xfinity's security features, visiting their official website or contacting their customer service would be advisable."
+ParagraphSplitter,bge-base-en,What is Xfinity NOW Internet?,0.172,1.383,0.806,"Xfinity NOW Internet refers to an internet service provided by Xfinity, which is a brand of Comcast. It typically includes high-speed internet access with various plans to choose from, catering to different usage needs, whether for streaming, gaming, or general browsing. The service may also include additional features such as Wi-Fi hotspots, security tools, and access to Xfinity's network. However, for specific details about the plans, speeds, and pricing, it's best to consult the official Xfinity website or customer service for the most accurate and updated information."
+ParagraphSplitter,bge-base-en,What is the Xfinity NOW WiFi Pass?,0.172,1.168,0.779,"The Xfinity NOW WiFi Pass is a service offered by Xfinity that allows users to access the Xfinity WiFi network. This pass is designed for individuals who are not Xfinity customers but need internet access at a variety of locations where Xfinity WiFi is available. By purchasing the pass, users can connect to the Xfinity hotspots without needing to have an Xfinity subscription. This service is particularly useful for those who are on the go and require reliable internet access for browsing or work."
+ParagraphSplitter,bge-base-en,What are the additional terms for Xfinity Internet and Voice services?,0.235,0.959,0.843,"I'm sorry, but the retrieved context does not provide any information about the additional terms for Xfinity Internet and Voice services. You may want to check the official Xfinity website or contact their customer service for the most accurate and detailed information regarding their terms and services."
+ParagraphSplitter,bge-base-en,How can I check my data usage for finity Internet?,0.202,1.968,0.745,"To check your data usage for Finity Internet, you can typically follow these steps:
+
+1. **Log into your account**: Visit the Finity Internet website and log in to your customer account using your credentials.
+
+2. **Access your account dashboard**: Once logged in, navigate to your account dashboard where you can find various options related to your internet service.
+
+3. **Check usage statistics**: Look for a section labeled ""Data Usage,"" ""Usage Statistics,"" or something similar. This section should provide you with details about your current data usage, including how much data you have used in the current billing cycle and any limits that may apply.
+
+4. **Mobile App**: If Finity Internet has a mobile app, you can also check your data usage through the app by logging in with your account details.
+
+5. **Contact Customer Support**: If you cannot find the information you need online or via the app, consider reaching out to Finity Internet's customer support for assistance.
+
+Make sure to check these resources regularly to stay informed about your data usage."
+ParagraphSplitter,bge-base-en,What happens if I exceed the data consumption threshold?,0.157,1.118,0.621,"If you exceed the data consumption threshold, you may experience some consequences. These can include reduced internet speeds, additional charges for excess usage, or temporary suspension of your service. It's important to check your service provider's specific policies for details on how they handle data overages."
